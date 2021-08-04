@@ -1,4 +1,4 @@
-# Fruit_Recognition_Competition_UsingCNN
+# -Fruit_Recognition_Competition_UsingCNN-
 
 # Problem Overview 
 Deep learning has been proved to be an advanced technology for big data analysis with a large number of successful cases in image processing, speech recognition, object detection,
