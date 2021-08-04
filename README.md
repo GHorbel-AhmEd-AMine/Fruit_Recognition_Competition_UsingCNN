@@ -10,6 +10,8 @@ https://www.researchgate.net/publication/321475443_Fruit_recognition_from_images
 
 **the link to the dataset**
 The dataset can be found here : 
+
+
 https://drive.google.com/file/d/101lHWlBKAsXjPkVBTz1_Ge9S2rwVPTUU/view?usp=sharing
 
 **Descreption of the Dataset**
