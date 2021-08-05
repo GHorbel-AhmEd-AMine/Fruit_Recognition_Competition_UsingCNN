@@ -32,8 +32,11 @@ https://drive.google.com/file/d/101lHWlBKAsXjPkVBTz1_Ge9S2rwVPTUU/view?usp=shari
 The requirements.txt file, has all the packages that were in the environment at the time of training.
 
 Tensorflow 2.0 (Tensorflow-GPU was used)
+
 Keras 2.3.1
+
 Matplotlib
+
 Numpy
 
 # Usage
