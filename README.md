@@ -47,7 +47,7 @@ You can find further details here (https://machinelearningmastery.com/transfer-l
 
 # Achievements 
 I have achieved an accuracy of 99.99 % on the test set using VGG16.
-
+100+ views on my notebook.
 
 
 
